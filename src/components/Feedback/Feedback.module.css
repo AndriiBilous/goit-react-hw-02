@@ -1,0 +1,18 @@
+.container{
+    border: 1px solid orange;
+    width: max-content;
+    padding: 5px;
+}
+
+.text{
+    color: green;
+}
+.bad{
+    color: red;
+}
+.colortext{
+   color: green;
+}
+.textcolor{
+    color: red;
+}

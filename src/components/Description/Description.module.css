@@ -1,0 +1,11 @@
+.container{
+    border: 1px solid blue;
+    padding:5px;
+    margin-bottom: 10px;
+}
+.title{
+    margin-bottom: 20px;
+}
+.text{
+    margin-bottom: 5px;
+}
